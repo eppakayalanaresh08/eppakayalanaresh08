@@ -1,5 +1,4 @@
-Hi there, I'm Naresh Eppakayala 👋
-
+Hi there, I'm Naresh Eppakayala👋
 
 👀 About Me
 I'm a versatile React Native developer and Frontend Developer with a strong command of the MERN stack. I also specialize in web hosting, including management with cPanel. Whether you’re looking for a freelancer or a full-time team member, I’m here to help!
@@ -27,3 +26,5 @@ LinkedIn
 Twitter
 Email
 Feel free to reach out for freelance opportunities, job inquiries, or just to discuss potential collaborations. Let’s build something amazing together!
+
+
